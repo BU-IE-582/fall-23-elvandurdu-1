@@ -1,6 +1,6 @@
 ## Welcome to Elvan Durdu's Progress Journal for IE 582
 
-Here is the [html] (https://github.com/BU-IE-582/fall-23-elvandurdu-1/IE 582 HW1.html) file of Homework 1.
+Here is the [html] (https://bu-ie-582.github.io/fall-23-elvandurdu-1/IE 582 HW1.html) file of Homework 1.
 
 [editor on GitHub](https://github.com/BU-IE-582/fall-23-ilaydacelenkk/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
